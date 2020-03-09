@@ -1,3 +1,4 @@
+speed = ? true : false 
 def unsafe?(speed)
 
 end
